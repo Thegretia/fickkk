@@ -1,0 +1,7 @@
+export(ficks_law_flux)
+export(concentration_profile)
+export(fick_time_evolution)
+export(plot_concentration)
+export(simulate_diffusion)
+export(check_stability)
+export(diffusion_coefficient_estimate)
