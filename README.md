@@ -5,7 +5,7 @@ It provides simple but powerful tools for modeling concentration gradients, diff
 
 ---
 
-## ✨ Features
+##  Features
 
 - Compute diffusion flux using **Fick’s First Law**
 - Simulate time evolution of concentration profiles (FTCS explicit scheme)
@@ -17,7 +17,7 @@ It provides simple but powerful tools for modeling concentration gradients, diff
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Since the package is not yet on CRAN, install it from GitHub:
 
