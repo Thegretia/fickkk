@@ -22,4 +22,4 @@ It provides simple but powerful tools for modeling concentration gradients, diff
 Since the package is not yet on CRAN, install it from GitHub:
 
 ```r
-remotes::install_github("your-username/fickkk")
+remotes::install_github("Thegretia/fickkk")
