@@ -1,9 +1,9 @@
 Package: fickkk
-Title: Simulations et outils pour la loi de Fick (diffusion 1D)
+Title: Simulations and Tools for Fick's Law (1D Diffusion)
 Version: 0.1.0
 Authors@R: 
     person("MBONJO", "Patrick", , "thomsp2001@gmail.com", role = c("aut", "cre"))
-Description: Fonctions simples pour simuler la diffusion 1D (lois de Fick),visualiser les profils et estimer le coefficient de diffusion.
+Description: Simple functions to simulate 1D diffusion (Fick's laws), visualize concentration profiles, and estimate the diffusion coefficient
 License: `use_mit_license()`
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
